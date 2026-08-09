@@ -1,0 +1,32 @@
+{
+  "description": "Simulated Landsat-8 OLI multispectral image \u2013 Tarkwa area",
+  "crs": "EPSG:32630 (WGS84 / UTM Zone 30N)",
+  "origin_x": 580000,
+  "origin_y": 586000,
+  "pixel_size_m": 30,
+  "rows": 200,
+  "cols": 200,
+  "bands": {
+    "B2": "Blue  (0.45\u20130.51 \u00b5m)",
+    "B3": "Green (0.53\u20130.59 \u00b5m)",
+    "B4": "Red   (0.64\u20130.67 \u00b5m)",
+    "B5": "NIR   (0.85\u20130.88 \u00b5m)",
+    "B6": "SWIR1 (1.57\u20131.65 \u00b5m)",
+    "B7": "SWIR2 (2.11\u20132.29 \u00b5m)"
+  },
+  "land_cover_classes": {
+    "1": "Dense Vegetation / Forest",
+    "2": "Degraded / Sparse Vegetation",
+    "3": "Urban / Built-up",
+    "4": "Bare Soil / Mine Spoil",
+    "5": "Water"
+  },
+  "indices": {
+    "NDVI": "(B5 - B4) / (B5 + B4)     \u2192 vegetation health  range [-1, 1]",
+    "NDWI": "(B3 - B5) / (B3 + B5)     \u2192 water bodies       range [-1, 1]",
+    "NDBI": "(B6 - B5) / (B6 + B5)     \u2192 built-up index     range [-1, 1]",
+    "SAVI": "((B5-B4)/(B5+B4+0.5))*1.5 \u2192 soil-adjusted veg  range [-1.5,1.5]",
+    "NBR": "(B5 - B7) / (B5 + B7)     \u2192 burn ratio         range [-1, 1]"
+  },
+  "note": "Reflectance values are float32 in range [0, 1]. Multiply by 10000 for DN equivalent."
+}
