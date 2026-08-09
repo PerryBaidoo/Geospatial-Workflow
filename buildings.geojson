@@ -1,0 +1,955 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.981083,
+          5.308888
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-001",
+        "type": "Market",
+        "floors": 2,
+        "footprint_m2": 285.4,
+        "total_area_m2": 570.8,
+        "year_built": 2008,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.975651,
+          5.302381
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-002",
+        "type": "Residential House",
+        "floors": 1,
+        "footprint_m2": 315.2,
+        "total_area_m2": 315.2,
+        "year_built": 2012,
+        "condition": "Fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.962846,
+          5.317513
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-003",
+        "type": "Office Block",
+        "floors": 2,
+        "footprint_m2": 299.9,
+        "total_area_m2": 599.8,
+        "year_built": 2015,
+        "condition": "Fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.987035,
+          5.320725
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-004",
+        "type": "Market",
+        "floors": 1,
+        "footprint_m2": 66.3,
+        "total_area_m2": 66.3,
+        "year_built": 1988,
+        "condition": "Fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.965695,
+          5.322129
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-005",
+        "type": "Residential House",
+        "floors": 3,
+        "footprint_m2": 223.5,
+        "total_area_m2": 670.5,
+        "year_built": 2005,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.986745,
+          5.319652
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-006",
+        "type": "School",
+        "floors": 1,
+        "footprint_m2": 321.0,
+        "total_area_m2": 321.0,
+        "year_built": 2008,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.982151,
+          5.310725
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-007",
+        "type": "School",
+        "floors": 2,
+        "footprint_m2": 277.8,
+        "total_area_m2": 555.6,
+        "year_built": 2010,
+        "condition": "Fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.970612,
+          5.3067
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-008",
+        "type": "Residential House",
+        "floors": 1,
+        "footprint_m2": 65.7,
+        "total_area_m2": 65.7,
+        "year_built": 2002,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.962993,
+          5.301292
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-009",
+        "type": "Bungalow",
+        "floors": 1,
+        "footprint_m2": 316.3,
+        "total_area_m2": 316.3,
+        "year_built": 1990,
+        "condition": "Poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.987007,
+          5.314293
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-010",
+        "type": "Bungalow",
+        "floors": 1,
+        "footprint_m2": 235.1,
+        "total_area_m2": 235.1,
+        "year_built": 1983,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.962113,
+          5.317726
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-011",
+        "type": "Residential House",
+        "floors": 2,
+        "footprint_m2": 323.7,
+        "total_area_m2": 647.4,
+        "year_built": 1979,
+        "condition": "Poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.964963,
+          5.311936
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-012",
+        "type": "Clinic",
+        "floors": 1,
+        "footprint_m2": 98.3,
+        "total_area_m2": 98.3,
+        "year_built": 1995,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.982806,
+          5.307383
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-013",
+        "type": "Residential House",
+        "floors": 1,
+        "footprint_m2": 180.5,
+        "total_area_m2": 180.5,
+        "year_built": 1986,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.977897,
+          5.315467
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-014",
+        "type": "Residential House",
+        "floors": 1,
+        "footprint_m2": 63.6,
+        "total_area_m2": 63.6,
+        "year_built": 1975,
+        "condition": "Poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.969406,
+          5.315722
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-015",
+        "type": "Residential House",
+        "floors": 3,
+        "footprint_m2": 308.5,
+        "total_area_m2": 925.5,
+        "year_built": 2014,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.977896,
+          5.319662
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-016",
+        "type": "Residential House",
+        "floors": 3,
+        "footprint_m2": 156.8,
+        "total_area_m2": 470.4,
+        "year_built": 1995,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.962812,
+          5.321211
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-017",
+        "type": "Office Block",
+        "floors": 1,
+        "footprint_m2": 168.6,
+        "total_area_m2": 168.6,
+        "year_built": 1970,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.986965,
+          5.317601
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-018",
+        "type": "Residential House",
+        "floors": 2,
+        "footprint_m2": 323.1,
+        "total_area_m2": 646.2,
+        "year_built": 1992,
+        "condition": "Fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.963491,
+          5.321392
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-019",
+        "type": "Residential House",
+        "floors": 1,
+        "footprint_m2": 80.0,
+        "total_area_m2": 80.0,
+        "year_built": 2020,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.983405,
+          5.322077
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-020",
+        "type": "Church",
+        "floors": 1,
+        "footprint_m2": 123.3,
+        "total_area_m2": 123.3,
+        "year_built": 2008,
+        "condition": "Fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.974952,
+          5.319536
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-021",
+        "type": "Residential House",
+        "floors": 2,
+        "footprint_m2": 211.1,
+        "total_area_m2": 422.2,
+        "year_built": 1974,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.967621,
+          5.315159
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-022",
+        "type": "Residential House",
+        "floors": 1,
+        "footprint_m2": 283.2,
+        "total_area_m2": 283.2,
+        "year_built": 1983,
+        "condition": "Fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.98325,
+          5.304273
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-023",
+        "type": "Residential House",
+        "floors": 1,
+        "footprint_m2": 222.9,
+        "total_area_m2": 222.9,
+        "year_built": 1999,
+        "condition": "Fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.986543,
+          5.318434
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-024",
+        "type": "Residential House",
+        "floors": 1,
+        "footprint_m2": 322.2,
+        "total_area_m2": 322.2,
+        "year_built": 1999,
+        "condition": "Fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.965716,
+          5.323788
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-025",
+        "type": "Residential House",
+        "floors": 3,
+        "footprint_m2": 192.6,
+        "total_area_m2": 577.8,
+        "year_built": 1989,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.962539,
+          5.312823
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-026",
+        "type": "Residential House",
+        "floors": 2,
+        "footprint_m2": 114.4,
+        "total_area_m2": 228.8,
+        "year_built": 2020,
+        "condition": "Fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.976577,
+          5.315034
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-027",
+        "type": "Residential House",
+        "floors": 2,
+        "footprint_m2": 95.8,
+        "total_area_m2": 191.6,
+        "year_built": 1973,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.964787,
+          5.312375
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-028",
+        "type": "Market",
+        "floors": 1,
+        "footprint_m2": 99.6,
+        "total_area_m2": 99.6,
+        "year_built": 1988,
+        "condition": "Fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.979683,
+          5.309343
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-029",
+        "type": "Residential House",
+        "floors": 1,
+        "footprint_m2": 205.7,
+        "total_area_m2": 205.7,
+        "year_built": 1981,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.979165,
+          5.313082
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-030",
+        "type": "Market",
+        "floors": 1,
+        "footprint_m2": 287.8,
+        "total_area_m2": 287.8,
+        "year_built": 1991,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.965413,
+          5.323101
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-031",
+        "type": "Residential House",
+        "floors": 1,
+        "footprint_m2": 289.9,
+        "total_area_m2": 289.9,
+        "year_built": 2018,
+        "condition": "Fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.962371,
+          5.313878
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-032",
+        "type": "Warehouse",
+        "floors": 1,
+        "footprint_m2": 275.6,
+        "total_area_m2": 275.6,
+        "year_built": 1983,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.968818,
+          5.30188
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-033",
+        "type": "Residential House",
+        "floors": 2,
+        "footprint_m2": 317.5,
+        "total_area_m2": 635.0,
+        "year_built": 2015,
+        "condition": "Fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.988177,
+          5.321813
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-034",
+        "type": "Residential House",
+        "floors": 1,
+        "footprint_m2": 72.5,
+        "total_area_m2": 72.5,
+        "year_built": 2006,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.973773,
+          5.321177
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-035",
+        "type": "Residential House",
+        "floors": 1,
+        "footprint_m2": 112.3,
+        "total_area_m2": 112.3,
+        "year_built": 1982,
+        "condition": "Fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.970664,
+          5.31994
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-036",
+        "type": "Residential House",
+        "floors": 1,
+        "footprint_m2": 206.5,
+        "total_area_m2": 206.5,
+        "year_built": 2003,
+        "condition": "Fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.973164,
+          5.314547
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-037",
+        "type": "Residential House",
+        "floors": 1,
+        "footprint_m2": 318.9,
+        "total_area_m2": 318.9,
+        "year_built": 2003,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.975547,
+          5.308928
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-038",
+        "type": "Warehouse",
+        "floors": 1,
+        "footprint_m2": 109.9,
+        "total_area_m2": 109.9,
+        "year_built": 1975,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.984662,
+          5.305478
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-039",
+        "type": "Residential House",
+        "floors": 1,
+        "footprint_m2": 318.0,
+        "total_area_m2": 318.0,
+        "year_built": 1972,
+        "condition": "Fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.977919,
+          5.324577
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-040",
+        "type": "Residential House",
+        "floors": 1,
+        "footprint_m2": 340.5,
+        "total_area_m2": 340.5,
+        "year_built": 1973,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.962673,
+          5.312778
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-041",
+        "type": "Market",
+        "floors": 2,
+        "footprint_m2": 262.7,
+        "total_area_m2": 525.4,
+        "year_built": 1980,
+        "condition": "Fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.981441,
+          5.319468
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-042",
+        "type": "Residential House",
+        "floors": 1,
+        "footprint_m2": 171.9,
+        "total_area_m2": 171.9,
+        "year_built": 2002,
+        "condition": "Fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.974694,
+          5.317974
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-043",
+        "type": "Church",
+        "floors": 1,
+        "footprint_m2": 196.9,
+        "total_area_m2": 196.9,
+        "year_built": 2005,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.972965,
+          5.309862
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-044",
+        "type": "Residential House",
+        "floors": 1,
+        "footprint_m2": 210.2,
+        "total_area_m2": 210.2,
+        "year_built": 1971,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.967133,
+          5.307111
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-045",
+        "type": "Market",
+        "floors": 2,
+        "footprint_m2": 224.6,
+        "total_area_m2": 449.2,
+        "year_built": 1993,
+        "condition": "Fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.967554,
+          5.303561
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-046",
+        "type": "Office Block",
+        "floors": 2,
+        "footprint_m2": 166.6,
+        "total_area_m2": 333.2,
+        "year_built": 2022,
+        "condition": "Fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.963665,
+          5.30535
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-047",
+        "type": "Residential House",
+        "floors": 2,
+        "footprint_m2": 218.1,
+        "total_area_m2": 436.2,
+        "year_built": 1998,
+        "condition": "Good"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.967528,
+          5.305839
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-048",
+        "type": "Residential House",
+        "floors": 1,
+        "footprint_m2": 292.5,
+        "total_area_m2": 292.5,
+        "year_built": 1983,
+        "condition": "Fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.979312,
+          5.322053
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-049",
+        "type": "Residential House",
+        "floors": 2,
+        "footprint_m2": 176.1,
+        "total_area_m2": 352.2,
+        "year_built": 1983,
+        "condition": "Poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.972149,
+          5.313955
+        ]
+      },
+      "properties": {
+        "building_id": "BLD-050",
+        "type": "Residential House",
+        "floors": 1,
+        "footprint_m2": 150.2,
+        "total_area_m2": 150.2,
+        "year_built": 2016,
+        "condition": "Good"
+      }
+    }
+  ]
+}
